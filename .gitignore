@@ -1,0 +1,9 @@
+node_modules/
+connector/
+/annotations/
+/dataset/
+/weights.bin
+/ssd.pdf
+/model.json/
+/ans.csv
+package-lock.json

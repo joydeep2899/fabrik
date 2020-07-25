@@ -1,0 +1,16 @@
+
+
+canvas{height: 1000px;width:1000px ;position: absolute;top:0px;left:0px;}
+
+video{height: 1000px;width: 1080px; position: absolute; top: 10px;left:10px ;
+ }
+.camView{ 
+    display: flex;
+    
+     top:10px;left: 200px;
+     
+     position: absolute; 
+ height: 1000px;
+ width: 1080px;
+     
+     }
